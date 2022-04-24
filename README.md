@@ -1,4 +1,4 @@
-# &#129504; Notebooks and Notes from Deep Learning Nanodegree Program - Udacity
+# &#129504; Notebooks and Notes
 
 * Briland Hitaj
 
